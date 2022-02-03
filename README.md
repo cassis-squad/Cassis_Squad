@@ -8,7 +8,7 @@ Our team is developing a robot that, through the **triangulation** of the differ
 
 ### If you want to know us go [here](https://github.com/cassis-squad/about-us)!
 
-# Staring Roadmap
+# Starting Roadmap
 
  1. Turn on and configure the Jetson nano
  2. Build the robot
