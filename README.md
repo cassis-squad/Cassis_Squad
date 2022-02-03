@@ -20,4 +20,4 @@ Our team is developing a robot that, through the triangulation of the different 
  - [Samuele](mailto:samuele.forneris@itiscuneo.eu)
  - [Alessandro](mailto:alessandro.seimandi@itiscuneo.eu)
 
-![nvidia](/docs/assets/images/nvidia logo.png | width=100)
+<img src="https://github.com/cassis-squad/Cassis_Squad/blob/main/docs/assets/images/nvidia%20logo.png" width="100">
