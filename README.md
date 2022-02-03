@@ -20,4 +20,4 @@ Our team is developing a robot that, through the triangulation of the different 
  - [Samuele](mailto:samuele.forneris@itiscuneo.eu)
  - [Alessandro](mailto:alessandro.seimandi@itiscuneo.eu)
 
-![nvidia](/docs/assets/images/nvidia logo.png)
+![nvidia](/docs/assets/images/nvidia logo.png | width=100)
