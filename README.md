@@ -4,6 +4,8 @@ Our team is developing a robot that, through the triangulation of the different 
 
 ## Project Chart
 
+![chart](/docs/assets/Cassis_group_diagram.png)
+
 ### If you want to know us go [here](https://github.com/cassis-squad/about-us)!
 
 ## Roadmap
@@ -20,4 +22,4 @@ Our team is developing a robot that, through the triangulation of the different 
  - [Samuele](mailto:samuele.forneris@itiscuneo.eu)
  - [Alessandro](mailto:alessandro.seimandi@itiscuneo.eu)
 
-<img src="https://github.com/cassis-squad/Cassis_Squad/blob/main/docs/assets/images/nvidia%20logo.png" width="100">
+![nvidia](/docs/assets/nvidia logo.png)
