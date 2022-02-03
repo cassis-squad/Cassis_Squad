@@ -26,12 +26,12 @@ The main technologies we will use are **lidar** for mapping the environment and 
 On the software side we will use **Python** as a programming language and various libraries to be able to communicate with everything; then we will use **C** for programming an Arduino.
 On the hardware side, a **Jetson Nano** will be used as the main brain and an **Arduino Uno** for managing the motors. 
 
-### Respository structure:
+## Respository structure:
 * [About Us](https://github.com/cassis-squad/about-us)
 * [Documentation](https://github.com/cassis-squad/doc)
 * [src](https://github.com/cassis-squad/src)
 
-### Support or Contact 📱
+## Support or Contact 📱
 
  - [Filippo](mailto:filippo.ferrando@itiscuneo.eu)
  - [Michele](mailto:michele.alladio@itiscuneo.eu)
