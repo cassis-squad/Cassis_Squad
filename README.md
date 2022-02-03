@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Indoor locator via wifi
 
-You can use the [editor on GitHub](https://github.com/cassis-squad/site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Our team is developing a robot that, through the triangulation of the different WiFi networks of our school, is able to orient itself within the school buildings. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Chart
 
-### Markdown
+### If you want to know us go [here](https://github.com/cassis-squad/about-us)!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Roadmap
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cassis-squad/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 1. Turn on and configure the Jetson nano
+ 2. Build the robot
+ 3. Prepare the Arduino with the motor shield
+ 4. And start writing the programs!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - [Filippo](mailto:filippo.ferrando@itiscuneo.eu)
+ - [Michele](mailto:michele.alladio@itiscuneo.eu)
+ - [Samuele](mailto:samuele.forneris@itiscuneo.eu)
+ - [Alessandro](mailto:alessandro.seimandi@itiscuneo.eu)
+
+
