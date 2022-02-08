@@ -8,17 +8,17 @@ Our team is developing a robot🤖: that, through the **triangulation** 📐 of 
 
 ### If you want to know us go [here](https://github.com/cassis-squad/about-us)!
 
-# Starting Roadmap 🗺️
+# Initial Roadmap 🗺️
 
  1. Turn on and configure the Jetson nano
  2. Build the robot
  3. Prepare the Arduino with the motor shield
  4. And start writing the programs!
 
-## Planning ↗️
+## Future Planning ↗️
 
 The general plan is to start the hardware and software part simultaneously. 
-Once the preparations related to the hardware part have been completed, we will proceed with the initial test phase.
+Once the preparations related to the hardware part have been completed, we will proceed with the first test phase, hopefully with working software.
 
 ## Technologies Used 🖥️
 
