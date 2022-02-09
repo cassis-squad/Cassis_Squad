@@ -1,6 +1,6 @@
 ## Indoor locator via wifi
 
-Our team is developing a robot🤖: that, through the **triangulation** 📐 of the different WiFi networks of our school, is able to **orient** itself within the school buildings 🏫. 
+Our team is developing a robot🤖 that, through the **triangulation** 📐 of the different WiFi networks of our school, is able to **orient** itself within the school buildings 🏫. 
 
 ## Project Chart 🚀
 
