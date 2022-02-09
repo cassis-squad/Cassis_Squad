@@ -30,6 +30,8 @@ On the hardware side, a **Jetson Nano** will be used as the main brain and an **
 * [About Us](https://github.com/cassis-squad/about-us)
 * [Documentation](https://github.com/cassis-squad/doc)
 * [src](https://github.com/cassis-squad/src)
+* [Arduino code](https://github.com/cassis-squad/arduino)
+
 
 ## Support or Contact 📱
 
