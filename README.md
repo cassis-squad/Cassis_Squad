@@ -40,7 +40,7 @@ On the hardware side, a **Raspberry Pi** will be used as the main brain and an *
  - [Samuele](mailto:samuele.forneris@itiscuneo.eu)
  - [Alessandro](mailto:alessandro.seimandi@itiscuneo.eu)
 
-![raspberry](/docs/assets/images/Raspberry_Pi_Logo.svg)
+![raspberry](/docs/assets/images/Raspberry_Pi_Logo.png)
 ![arduino](/docs/assets/images/arduino_final.png)
 ![lidar](/docs/assets/images/lidar_final.png)
 ![wifi](/docs/assets/images/wifi_final.png)
