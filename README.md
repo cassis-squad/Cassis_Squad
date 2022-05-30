@@ -38,7 +38,6 @@ On the hardware side, a **Raspberry Pi** will be used as the main brain and an *
  - [Filippo](mailto:filippo.ferrando@itiscuneo.eu)
  - [Michele](mailto:michele.alladio@itiscuneo.eu)
  - [Samuele](mailto:samuele.forneris@itiscuneo.eu)
- - [Alessandro](mailto:alessandro.seimandi@itiscuneo.eu)
 
 ![raspberry](/docs/assets/images/Raspberry_Pi_Logo.png)
 ![arduino](/docs/assets/images/arduino_final.png)
