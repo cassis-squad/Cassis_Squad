@@ -26,6 +26,12 @@ The main technologies we will use are **lidar** for mapping the environment and 
 On the software side we will use **Python** as a programming language and various libraries to be able to communicate with everything; then we will use **C** for programming an Arduino.
 On the hardware side, a **Raspberry Pi** will be used as the main brain and an **Arduino Uno** for managing the motors. 
 
+## Actual Result 🔝
+
+At the present time we have created a system to integrate the Lidarr into the movement system, the communication between Arduino and Raspberry Pi and the recognition of the area through a machine learing model.
+
+
+
 ## Respository structure 🗃️
 * [About Us](https://github.com/cassis-squad/about-us)
 * [Documentation](https://github.com/cassis-squad/doc)
