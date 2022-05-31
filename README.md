@@ -17,9 +17,9 @@ Our team is developing a robot🤖 that, through the **triangulation** 📐 of t
 
 ## What have we done ↗️
 
- - We can now succesfully see the wifi positioning system working (also thanks to @Andrea-Tomatis)
+ - We can now succesfully see the wifi positioning system working (also thanks to [@Andrea-Tomatis](https://github.com/Andrea-Tomatis))
  - The Lidarr is working (we are struggling to manage the amount of data that we receive)
- - Raspberry and Arduino work prefectly together (thanks to @samu4ne)
+ - Raspberry and Arduino work prefectly together (thanks to [@samu4ne](https://github.com/samu4ne))
 
 ## Actual Result 🔝
 
